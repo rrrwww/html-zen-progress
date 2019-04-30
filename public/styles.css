@@ -1,0 +1,28 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+html-zen-progress,
+html-zen-interaction,
+html-zen-menu,
+html-zen-status {
+  display: block;
+  float: left;
+}
+
+html-zen-progress {
+  border: 1px solid red;
+}
+
+html-zen-interaction {
+  border: 1px solid blue;
+}
+
+html-zen-menu {
+  border: 1px solid green;
+}
+
+html-zen-status {
+  border: 1px solid yellow;
+}
