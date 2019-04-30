@@ -1,9 +1,11 @@
 {
-  "name": "new",
+  "name": "html-zen-progress",
   "version": "1.0.0",
-  "description": "",
+  "description": "zen progress component",
+  "repository": "https://github.com/aokinobu/html-zen-progress",
   "keywords": [],
   "main": "src/index.js",
+  "license": "Zen Project License",
   "dependencies": {},
   "devDependencies": {
     "typescript": "3.3.3"
